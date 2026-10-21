@@ -7,9 +7,12 @@ showing your image for the whole track. Originals are never modified.
 
 ## Download (no install)
 
-Grab `MP3_to_YouTube_Video.zip` from the
-[Releases](../../releases) page, unzip it, and double-click
+Download [`dist/MP3_to_YouTube_Video.zip`](dist/MP3_to_YouTube_Video.zip)
+(click it, then **Download raw file**), unzip it, and double-click
 **MP3 to YouTube Video.exe**. Keep `ffmpeg.exe` in the same folder.
+
+`dist/` also has the bare `MP3 to YouTube Video.exe` if you already have
+ffmpeg.exe.
 
 > Windows SmartScreen may warn the first time because the exe is unsigned.
 > Click **More info → Run anyway**.
